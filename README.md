@@ -29,7 +29,7 @@
 <img src="src/assets/screenshots/Settings - Light.png" width"200" height="400"/>
 </div>
 
-### ``` Movies ```
+### ``` Movie Details ```
 <div align="center">
 <img src="src/assets/screenshots/Movie Details.png" width"200" height="400"/>
 </div>
